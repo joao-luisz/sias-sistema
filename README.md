@@ -17,14 +17,12 @@ O sistema foi projetado com foco na **Experiência do Usuário (UX)**, garantind
 - **Impressão:** Integração com impressoras térmicas.
 - **Busca:** Localização rápida de cidadãos na fila.
 
-![Recepção](assets/reception.png)
 
 ### 📺 Painel de Chamada (TV)
 - **Mídia Digital:** Exibição de vídeos institucionais ou notícias enquanto aguarda.
 - **Chamada Vocal:** Anúncio sonoro da senha e guichê ("Senha A-012, Guichê 3").
 - **Alertas Visuais:** Destaque piscante para chamar atenção.
 
-![Painel TV](assets/tv_panel.png)
 
 ### 👩‍💼 Módulo do Atendente
 - **Fila Individual:** Visualização clara de quem está aguardando.
