@@ -1,6 +1,5 @@
 # SIAS - Sistema Integrado de Atendimento Social
 
-![SIAS Dashboard](assets/dashboard.png)
 
 > Um sistema moderno, eficiente e intuitivo para gestão de filas e atendimento ao cidadão, desenvolvido para modernizar Secretarias de Assistência Social.
 
